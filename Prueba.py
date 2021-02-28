@@ -12,3 +12,5 @@ print('Hola mundo tres')
 
 print('Hola Mundo cuatro')
 print('hola mundo cinco')
+print('Hola Mundo seis')
+print('hola mundo siete')
